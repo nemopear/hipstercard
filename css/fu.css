@@ -1,0 +1,29 @@
+body{
+    width: 1000px;
+    margin: 0 auto;
+    padding: 30px 0;
+    font-family: 'Lato', Calibri, Arial, sans-serif;
+}
+
+.card{
+    width: 250px;
+    height: 390px;
+    display: inline-block;
+    margin: 0 20px 20px 0;
+    padding: 10px;
+    box-shadow: 1px 1px 2px 1px rgba(0, 0, 0 , 0.1);
+    border-radius: 5px;
+    background: #fff;
+    vertical-align: top;
+}
+
+.card-img img{
+    width: 100%;
+}
+
+.card-title{
+    
+}
+.card-power{
+    
+}
